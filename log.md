@@ -13,7 +13,17 @@
 
 ***Today's Progress***: I started working on the Portfolio page for FreeCodeCamp. I created the navigation bar and the first section of the page.
 
-***Thoughts**: This was very tough to fit in the hour with the work that had to be done, very glad I got to it though.
+***Thoughts***: This was very tough to fit in the hour with the work that had to be done, very glad I got to it though.
 
 ***Link(s) to work***
 1. [Portfolio](http://codepen.io/jcolborn-dropdeadgames/full/aWOqeY/)
+
+### Day 2: April 17, Monday
+
+***Today's Progress***: Worked on the Portfolio page until Codepen went down. Did 2 Algorithm challenges at @freeCodeCamp until it came back up.
+
+***Thoughts***: HINT: don't initialize the return value of a factorial to 0, it just multiplies everything by 0!
+
+***Link(s) to work***
+1. [Portfolio](http://codepen.io/jcolborn-dropdeadgames/full/aWOqeY/)
+2. [FreeCodeCamp](https://www.freecodecamp.com/jcolborn-dropdeadgames)
