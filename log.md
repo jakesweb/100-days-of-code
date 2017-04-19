@@ -25,5 +25,15 @@
 ***Thoughts***: HINT: don't initialize the return value of a factorial to 0, it just multiplies everything by 0!
 
 ***Link(s) to work***
+
 1. [Portfolio](http://codepen.io/jcolborn-dropdeadgames/full/aWOqeY/)
 2. [FreeCodeCamp](https://www.freecodecamp.com/jcolborn-dropdeadgames)
+
+### Day 2: April 18, Tuesday
+
+***Today's Progress***: Changed the CSS to center items on my page. Changed my portrait to be inline with my About text. Created social media shortcuts
+
+***Thoughts***: The hardest part about web design is trying to get the look just the way you want it but also get it apealing to ohter people
+
+***Link(s) to work***
+1. [Portfolio](http://codepen.io/jcolborn-dropdeadgames/full/aWOqeY/)
