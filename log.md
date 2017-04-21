@@ -46,3 +46,12 @@
 
 ***Link(s) to work***
 1. [Portfolio](http://codepen.io/jcolborn-dropdeadgames/full/aWOqeY/)
+
+### Day 6: April 20, Wednesday
+
+***Today's Progress***: Started on the Alogrithm challenges on FreeCodeCamp.
+
+***Thoughts***: Complicated work but worth it. Really helps to understand the thought process for problem solving.
+
+***Link(s) to work***
+1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
