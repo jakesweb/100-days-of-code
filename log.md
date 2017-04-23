@@ -47,7 +47,7 @@
 ***Link(s) to work***
 1. [Portfolio](http://codepen.io/jcolborn-dropdeadgames/full/aWOqeY/)
 
-### Day 6: April 20, Wednesday
+### Day 6: April 20, Thursday
 
 ***Today's Progress***: Started on the Alogrithm challenges on FreeCodeCamp.
 
@@ -56,11 +56,20 @@
 ***Link(s) to work***
 1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
 
-### Day 7: April 22, Wednesday
+### Day 7: April 22, Saturday
 
 ***Today's Progress***: Working on more algorithm challenges.
 
 ***Thoughts***: Learning alot about the thought process for programming and working through problem solving skills.
+
+***Link(s) to work***
+1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
+
+### Day 8: April 23, Sunday
+
+***Today's Progress***: Finished the Algorithm challenges at FreeCodeCamp.
+
+***Thoughts***: The second to last one (getInsertIndex.js) was the toughest one yet. Took a one day rest to get it solved. Got it!
 
 ***Link(s) to work***
 1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
