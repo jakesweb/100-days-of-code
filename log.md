@@ -55,3 +55,12 @@
 
 ***Link(s) to work***
 1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
+
+### Day 7: April 22, Wednesday
+
+***Today's Progress***: Working on more algorithm challenges.
+
+***Thoughts***: Learning alot about the thought process for programming and working through problem solving skills.
+
+***Link(s) to work***
+1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
