@@ -73,3 +73,12 @@
 
 ***Link(s) to work***
 1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
+
+### Day 9: April 24, Monday
+
+***Today's Progress***: Started the Random Quote Generator for FreeCodeCamp
+
+***Thoughts***: This will take API usage and I never have been comfortable with APIs
+
+***Link(s) to work***
+1. [CodePen Quote Generator](http://codepen.io/jcolborn-dropdeadgames/pen/KmgrJO)
