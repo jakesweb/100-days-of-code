@@ -82,3 +82,12 @@
 
 ***Link(s) to work***
 1. [CodePen Quote Generator](http://codepen.io/jcolborn-dropdeadgames/pen/KmgrJO)
+
+### Day 1: April 27, Thursday
+
+***Today's Progress***: Finished my Random Quote Generator
+
+***Thoughts***: Great to learn how API's work and some simple tricks to get Twitter button going.
+
+***Link(s) to work***
+1. [Random Quote Generator](http://codepen.io/jcolborn-dropdeadgames/pen/mmWPKN)
