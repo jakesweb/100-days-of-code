@@ -83,7 +83,7 @@
 ***Link(s) to work***
 1. [CodePen Quote Generator](http://codepen.io/jcolborn-dropdeadgames/pen/KmgrJO)
 
-### Day 1: April 27, Thursday
+### Day 10: April 27, Thursday
 
 ***Today's Progress***: Finished my Random Quote Generator
 
@@ -91,3 +91,21 @@
 
 ***Link(s) to work***
 1. [Random Quote Generator](http://codepen.io/jcolborn-dropdeadgames/pen/mmWPKN)
+
+### Day 11: April 29, Saturday
+
+***Today's Progress***: Fixed some bugs with the random quotes, added responsiveness
+
+***Thoughts***: Great to learn how API's work and some simple tricks to get Twitter button going.
+
+***Link(s) to work***
+1. [Random Quote Generator](http://codepen.io/jcolborn-dropdeadgames/pen/mmWPKN)
+
+### Day 12: April 30, Sunday
+
+***Today's Progress***: Started on the Weather App
+
+***Thoughts***: Codepen may not be the best for using API's. I am switching this to github.io.
+
+***Link(s) to work***
+1. [Weather (old)](http://codepen.io/jcolborn-dropdeadgames/pen/OmmQqL)
