@@ -109,3 +109,12 @@
 
 ***Link(s) to work***
 1. [Weather (old)](http://codepen.io/jcolborn-dropdeadgames/pen/OmmQqL)
+
+### Day 16: May 5, Friday
+
+***Today's Progress***: Started on the Wikipedia Viewer App after finishing the weather app
+
+***Thoughts***: Documenation is the hardest part of this or any other tech related job. I hopefully will get better. I hopefully can get back on track with this log file.
+
+***Link(s) to work***
+1. [Wikipedia Viewer](http://codepen.io/jcolborn-dropdeadgames/pen/jmGgoY)
