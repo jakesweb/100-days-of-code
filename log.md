@@ -118,3 +118,12 @@
 
 ***Link(s) to work***
 1. [Wikipedia Viewer](http://codepen.io/jcolborn-dropdeadgames/pen/jmGgoY)
+
+### Day 17: May 6, Saturday
+
+***Today's Progress***: Got the JSON from the opensearch API of Wikipedia to return data. Got the basic function setup to return the data and display it to HTML
+
+***Thoughts***: The JSON returned something similar to ["search",["title"],["description"],["link"]. After thinking about this for a day I realized that the array is an array of arrays, so we can use standard [0][1][2][3] to get the data. Need to finish up formatting and looks tomorrow. Also, need to test on mobile.
+
+***Link(s) to work***
+1. [Wikipedia Viewer](http://codepen.io/jcolborn-dropdeadgames/pen/jmGgoY)
