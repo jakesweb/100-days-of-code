@@ -127,3 +127,12 @@
 
 ***Link(s) to work***
 1. [Wikipedia Viewer](http://codepen.io/jcolborn-dropdeadgames/pen/jmGgoY)
+
+### Day 20: May 12, Saturday
+
+***Today's Progress***: Setup the CSS and HTML layout for the Twitch app from FreeCodeCamp. Started working on the JSON but the status of the streams is inconsistent
+
+***Thoughts***: The return is consistent, but the data is not.
+
+***Link(s) to work***
+1. [Twitch App](https://codepen.io/jcolborn-dropdeadgames/full/NjydOe/)
