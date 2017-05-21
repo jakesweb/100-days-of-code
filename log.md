@@ -135,4 +135,23 @@
 ***Thoughts***: The return is consistent, but the data is not.
 
 ***Link(s) to work***
-1. [Twitch App](https://codepen.io/jcolborn-dropdeadgames/full/NjydOe/)
+1. [Twitch App](https://codepen.io/jcolborn-dropdeadgames/full/NjydOe/k)
+
+### Day 21: May 19, Friday
+
+***Today's Progress***: Finished the first Intermediate Algorithm challenge for the FreeCodeCamp Front End Certification
+
+***Thoughts***: The alogrithm challenge is getting complicated compared to the beginner ones (duh!). I have to remember to sketch out the psudo code to attempt to help myself with this.
+
+***Link(s) to work***
+1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
+
+### Day 22: May 20, Saturday
+
+***Today's Progress***: Finished the next few Intermediate Algorithm challenge for the FreeCodeCamp Front End Certification
+
+***Thoughts***: The alogrithm challenge is getting complicated compared to the beginner ones (duh!). I have to remember to sketch out the psudo code to attempt to help myself with this.
+
+***Link(s) to work***
+1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
+
