@@ -155,3 +155,12 @@
 ***Link(s) to work***
 1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
 
+### Day 25: May 28, Sunday
+
+***Today's Progress***: Finished one Intermediate challenge from freeCodeCamp.
+
+***Thoughts***: The complicated nature of the algorithm challenges is difficult. I have to often use the rest and return strategy.
+
+***Link(s) to work***
+1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
+
