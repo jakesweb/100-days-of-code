@@ -164,3 +164,20 @@
 ***Link(s) to work***
 1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
 
+### Day 26: May 29, Monday
+
+***Today's Progress***: Wrote a blog post. Setup new plugin and theme for Wordpress
+
+***Thoughts***: I want to learn more about custom wordpress.
+
+***Link(s) to work***
+1. [DDG](http://dropdeadgames.org)
+
+### Day 27: May 30, Tuesday
+
+***Today's Progress***: Completed work on 2 Intermediate Challenges from freeCodeCamp
+
+***Thoughts***: I underestimated the time it takes for me to run on these challenges.
+
+***Link(s) to work***
+1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
