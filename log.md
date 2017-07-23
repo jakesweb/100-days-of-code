@@ -181,3 +181,14 @@
 
 ***Link(s) to work***
 1. [FreeCodeCamp](https://freecodecamp.com/jcolborn-dropdeadgames)
+
+
+
+### Day 1: July 22, Saturday
+
+***Today's Progress***: Began the work on the Tic-Tac-Toe game for freecodecamp front end cert. Setup the game logic.
+
+***Thoughts***: I would like to better undrestand how frameworks are used or when they are best utlized.
+
+***Link(s) to work***
+1. [codepen.io](https://codepen.io/jcolborn-dropdeadgames) 
