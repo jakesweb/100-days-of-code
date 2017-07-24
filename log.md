@@ -192,3 +192,12 @@
 
 ***Link(s) to work***
 1. [codepen.io](https://codepen.io/jcolborn-dropdeadgames) 
+
+### Day 2: July 23, Sunday
+
+***Today's Progress***: Began the work on the computers AI for the game. It's more complicated than I thought. I think I got the basics setup but now I am working on optimization.
+
+***Thoughts***: Game AI is harder than you thin, even for such a simple game. The best thing to do is create a rules map and then work backward on the implementation.
+
+***Link(s) to work***
+1. [codepen.io](https://codepen.io/jcolborn-dropdeadgames) 
