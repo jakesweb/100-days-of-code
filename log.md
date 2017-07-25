@@ -201,3 +201,12 @@
 
 ***Link(s) to work***
 1. [codepen.io](https://codepen.io/jcolborn-dropdeadgames) 
+
+### Day 3: July 24, Monday
+
+***Today's Progress***: Had to change the process of how I check for win conditions on the Tic-Tac-Toe app
+
+***Thoughts***: When building an application, don't try to brute force an idea that will not continue to work after more thought. Go back, refactor, and adapt.
+
+***Link(s) to work***
+1. [codepen.io](https://codepen.io/jcolborn-dropdeadgames) 
