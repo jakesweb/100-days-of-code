@@ -210,3 +210,13 @@
 
 ***Link(s) to work***
 1. [codepen.io](https://codepen.io/jcolborn-dropdeadgames) 
+
+### Day 4: July 25, Tuesday
+
+***Today's Progress***: Selected a new font to use from GoogleWebSafe Fonts. Created random  sequenece logic for the game to us.e .
+
+***Thoughts***: I cannot give up part way through. These are the projects that will go to build my portfolio. I need to make sure they look and perform well. 
+
+***Link(s) to work***
+1. [codepen.io](https://codepen.io/jcolborn-dropdeadgames) 
+
