@@ -218,5 +218,14 @@
 ***Thoughts***: I cannot give up part way through. These are the projects that will go to build my portfolio. I need to make sure they look and perform well. 
 
 ***Link(s) to work***
-1. [codepen.io](https://codepen.io/jcolborn-dropdeadgames) 
+1. [codepen.io](https://codepen.io/jakesweb) 
+
+### Day 5: July 26, Wednesday
+
+***Today's Progress***: Finished up the Tic-Tac-Toe game. Started working on the Simon game project. Setting up the board and the color selectors
+
+***Thoughts***: I pushed to get the issues sorted out for the Tic-Tac-Toe game and I think I did. I am really enjoying just laying out the HTML and CSS for the Simon game. I think this will be a fun project with the color and audio.
+
+***Link(s) to work***
+1. [codepen.io](https://codepen.io/jakesweb) 
 
