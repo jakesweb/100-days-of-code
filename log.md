@@ -227,5 +227,14 @@
 ***Thoughts***: I pushed to get the issues sorted out for the Tic-Tac-Toe game and I think I did. I am really enjoying just laying out the HTML and CSS for the Simon game. I think this will be a fun project with the color and audio.
 
 ***Link(s) to work***
-1. [codepen.io](https://codepen.io/jakesweb) 
+1. [codepen.io](https://codepen.io/jakesweb/full/ZJbKbm/) 
+
+### Day 6: July 27, Thursday
+
+***Today's Progress***: Decided to use SVG for my Simon board. Found that jQuery could handle the id's and frameworks like snap.js allowed for the modification of SVG elements (such as a timer/counter)
+
+***Thoughts***: I'm really liking the SVG here. It is a really elegant solution to the issue.
+
+***Link(s) to work***
+1. [codepen.io](https://codepen.io/jakesweb/full/ZJbKbm/)
 
