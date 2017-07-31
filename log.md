@@ -238,3 +238,12 @@
 ***Link(s) to work***
 1. [codepen.io](https://codepen.io/jakesweb/full/ZJbKbm/)
 
+### Day 7: July 30, Sunday
+
+***Today's Progress***: WOrking on the game logic setup for the ame. Got the basic idea. Need to finsih the computer play part with animation for the button flashes and a method to play sounds.
+
+***Thoughts***: Hard to focus todya. Could have been the crazy work on Friday and Saturday or from forgetting my medicine. The world may never know.
+
+***Link(s) to work***
+1. [codepen.io](https://codepen.io/jakesweb/full/ZJbKbm/)
+
