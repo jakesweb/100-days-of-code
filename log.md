@@ -247,3 +247,13 @@
 ***Link(s) to work***
 1. [codepen.io](https://codepen.io/jakesweb/full/ZJbKbm/)
 
+### Day 8: July 31, Monday
+
+***Today's Progress***: Making the sounds work for buttons and animations for color pops
+
+***Thoughts***: It's gonna take a lot of work, but I am working forward to it.
+
+***Link(s) to work***
+1. [codepen.io](https://codepen.io/jakesweb/full/ZJbKbm/)
+
+
