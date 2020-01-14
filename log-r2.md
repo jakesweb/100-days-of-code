@@ -17,3 +17,12 @@
 
 ***Link(s) to work***
 1. [Blog Article](https://dev.to/jakesweb/using-react-hooks-with-apollo-475j)
+
+### Day 3: January 13, 2020 Monday
+
+***Today's Progress***: Had to take a break while working extreme hours over the weekend. Started the work of adding Material-UI to the front-end to see if I could make the flow better.
+
+***Thoughts***: Taking a break was hard, but with working 3 12 hours days Friday, Saturday, and Sunday, there was no choice.
+
+***Link(s) to work***
+1. [Esports Daily](https://github.com/jakesweb/esports-daily/)
