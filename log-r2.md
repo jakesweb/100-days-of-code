@@ -26,3 +26,12 @@
 
 ***Link(s) to work***
 1. [Esports Daily](https://github.com/jakesweb/esports-daily/)
+
+### Day 34: January 14, 2020 Tuesday
+
+***Today's Progress***: Fixed the tags function by using .map() instead of forEach. Working with Material-UI still to get sytling right.
+
+***Thoughts***: Sitting back and taking a different approach may be the thing needed sometimes.
+
+***Link(s) to work***
+1. [Esports Daily](https://github.com/jakesweb/esports-daily/)
